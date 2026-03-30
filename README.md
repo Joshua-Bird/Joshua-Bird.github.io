@@ -1,1 +1,2 @@
-# Welcome to my portfolio
+# Joshua Bird Portfolio
+Welcome to my GitHub portfolio site!
