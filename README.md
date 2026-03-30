@@ -34,5 +34,14 @@ Collaborated on turbine system analysis. Modeled workflows, identified requireme
 Designed onboarding, home, account, login, and search screens using Figma. Applied accessibility checks and auto-layout.
 
 ### Frontend Functional Flows
+
 Implemented login and search flows, connecting frontend prototypes to backend logic with secure coding practices.
+
+## Mock Interview Video
+
+[Watch my interview] (https://drive.google.com/file/d/1VhvF5ui0YZDpa7nrJPXoZH1Lt_CCg2wq/view?usp=sharing)
+
+## References
+- Martin Mandioma – Lecturer, CPUT (Email: 230444032@mycput.ac.za)  
+- Reynard De Jager – Principal, Schoonspruit Secondary School (Phone: 0224864598)
 
