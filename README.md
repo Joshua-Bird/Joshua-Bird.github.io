@@ -1,5 +1,15 @@
 # Joshua Bird - Digital Portfolio
 
+---
+
+# About Me
+
+Hi, I'm Joshua Bird - an ICT Applications Development student at CPUT. I'm passionate about digital solutions that are reliable, user-friendly and inclusive. My focus is on bridging design and backend backend development to create scalable applications, while applying SDLC principles, secure coding practices, and accessibility standards. I enjoy collaborative problem-solving and thrive in dynamic project environments.
+
+---
+
+# Curriculum Vitae (CV)
+
 ## Objective
 
 Versatile full-stack software developer with hands-on experience in building functional UI flows and integrating backend logic. Skilled in applying SDLC principles, secure coding practices, and accessibility standards to deliver reliable, inclusive applications. I am good at bridging design and development to create scalable solutions, and eager to contribute technical expertise and collaborative problem-solving to dynamic projects.
