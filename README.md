@@ -41,6 +41,7 @@ Implemented login and search flows, connecting frontend prototypes to backend lo
 - Martin Mandioma – Lecturer, CPUT (Email: mandiomam@cput.ac.za)  
 - Reynard De Jager – Principal, Schoonspruit Secondary School (Phone: 0224864598)
 ---
+
 # Mock Interview Video
 
 <video width="640" height="360" controls>
@@ -84,7 +85,7 @@ Implemented login and search flows, connecting frontend prototypes to backend lo
 **Situation:** I needed to publish my portfolio online so it could be accessed by lecturers and recruiters.  
 **Task:** Configure GitHub Pages to deploy my repository as a live website.  
 **Action:** I created and committed a README.md file, enabled GitHub Pages from the main branch, and tested the deployment link. I also solved challenges like video file size limits by compressing and embedding the video.  
-**Result:** My portfolio is now live at `https://joshuabird.github.io`, demonstrating my ability to troubleshoot technical issues and deliver a polished, accessible online presence.
+**Result:** My portfolio is now live at https://joshua-bird.github.io/, demonstrating my ability to troubleshoot technical issues and deliver a polished, accessible online presence.
 
 ---
 # Connection and Learning Summary
