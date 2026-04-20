@@ -40,8 +40,8 @@ Implemented login and search flows, connecting frontend prototypes to backend lo
 ## References
 - Martin Mandioma – Lecturer, CPUT (Email: mandiomam@cput.ac.za)  
 - Reynard De Jager – Principal, Schoonspruit Secondary School (Phone: 0224864598)
----
 
+---
 # Mock Interview Video
 
 <video width="640" height="360" controls>
