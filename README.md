@@ -90,21 +90,6 @@ Implemented login and search flows, connecting frontend prototypes to backend lo
 # Connection and Learning Summary
 
 Throughout the process of building my portfolio, I have connected multiple areas of learning into one integrated showcase of my academic and professional growth.
-
-- **Markdown Coding:** Learning Markdown gave me the ability to structure and present my CV, projects, and reflections in a professional format. This skill connects directly to documentation practices used in real-world software development.
-
-- **GitHub Pages Deployment:** Publishing my portfolio through GitHub Pages taught me how to configure repositories, manage branches, and troubleshoot deployment issues. This connects to my technical skills in version control and demonstrates my ability to deliver a live, accessible product.
-
-- **Projects Evidence:** By documenting projects such as the Turbines analysis, Takealot redesign, and frontend functional flows, I connected theoretical knowledge (SDLC, UML, accessibility) with practical application. This shows how academic learning translates into real project outcomes.
-
-- **Mock Interview:** Embedding my mock interview video connects communication and technical presentation skills with my portfolio evidence. It demonstrates not only what I can build, but also how I can present myself professionally to recruiters and stakeholders.
-
-- **Reflections (STAR Method):** Using the STAR method allowed me to critically evaluate each experience, connecting challenges with actions and results. This reflection process strengthens my ability to learn from practice and continuously improve.
-
----
-# Connection and Learning Summary
-
-Throughout the process of building my portfolio, I have connected multiple areas of learning into one integrated showcase of my academic and professional growth.
 - **Markdown Coding:** Learning Markdown gave me the ability to structure and present my CV, projects, and reflections in a professional format. This skill connects directly to documentation practices used in real-world software development.
 - **GitHub Pages Deployment:** Publishing my portfolio through GitHub Pages taught me how to configure repositories, manage branches, and troubleshoot deployment issues. This connects to my technical skills in version control and demonstrates my ability to deliver a live, accessible product.
 - **Projects Evidence:** By documenting projects such as the Turbines analysis, Takealot redesign, and frontend functional flows, I connected theoretical knowledge (SDLC, UML, accessibility) with practical application. This shows how academic learning translates into real project outcomes.
