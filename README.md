@@ -1,4 +1,4 @@
-# Joshua Bird Portfolio
+# Joshua Bird - Digital Portfolio
 
 ## Objective
 
