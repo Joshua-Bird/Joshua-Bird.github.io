@@ -10,7 +10,7 @@ Hi, I'm Joshua Bird - an ICT Applications Development student at CPUT. I'm passi
 # Curriculum Vitae (CV)
 
 ## Objective
-Versatile full-stack software developer with hands-on experience in building functional UI flows and integrating backend logic. Skilled in applying SDLC principles, secure coding practices, and accessibility standards to deliver reliable, inclusive applications. I am good at bridging design and development to create scalable solutions, and eager to contribute technical expertise and collaborative problem-solving to dynamic projects.
+Final-year ICT Applications Development student with experience contributing to group projects and building functional UI flows connected to backend logic. Actively applying SDLC principles, secure coding practices, and accessibility standards while continuing to expand my knowledge. I enjoy bridging design and development to create scalable solutions, and I am eager to learn, collaborate, and contribute to dynamic projects.
 
 ## Contact
 - Email: 230444032@mycput.ac.za  
@@ -18,28 +18,39 @@ Versatile full-stack software developer with hands-on experience in building fun
 - Location: Darling, Western Cape  
 
 ## Education
-- National Senior Certificate (Matric) – Schoonspruit Secondary School (2022)  
-- Higher Certificate in ICT – Cape Peninsula University of Technology (2023)  
-- Diploma in ICT (Applications Development) – CPUT (2024 – Present)
+- National Senior Certificate (Matric): Schoonspruit Secondary School – Completed 2022
+- Higer Certificate in Information and Communication Technology: Cape Peninisula University of Technology (Cput) – 2023
+- Diploma in Information and Communication Technology (Applications Developement): Cape Peninisula University of Technology (CPUT) – 2024 – Present 
 
 ## Technical Skills
-- Full-Stack Development  
-- Secure Coding & SDLC Practices  
-- Accessibility & Localization  
-- Database Management  
+- Full-Stack Development
+- Database Management
+- Version Control & Deployment
+- UI/UX Design Practices 
 
 ## Projects
 
-### Turbines Project
-Collaborated on turbine system analysis. Modeled workflows, identified requirements, and proposed solutions.
+### Turbines Project (Academic/Group Project)
+Collaborated on turbine system analysis, applying workflows and requirements modelling. Gained experience in breaking down technical tasks, coordinating team roles, and connecting theory to practice.
 ### Takealot App Redesign
-Designed onboarding, home, account, login, and search screens using Figma. Applied accessibility checks and auto-layout.
-### Frontend Functional Flows
-Implemented login and search flows, connecting frontend prototypes to backend logic with secure coding practices.
+Prototyped onboarding, home, account, login, and search screens in Figma. Applied auto-layout, baseline grids, and accessibility checks to create inclusive UI flows linked to backend logic.
+### Frontend Functional Flows (Practice Work)
+Implemented login and search flows with HTML, CSS, and JavaScript. Focused on accessibility, localization, and secure coding while connecting frontend prototypes to backend logic.
+
+## Experience
+
+### Yzerfontein Spar (Casual Work)
+- Worked during December school holidays from age 16 until December 2022.
+- Assisted customers, handled stock, and supported daily store operations.
+- Gained experience in teamwork, responsibility, and customer service.
+### Yzerfontein Build It (Casual Work)
+- Worked during the December 2023 holiday.
+- Assisted with stock management, customer support, and general store duties.
+- Developed practical workplace skills and strengthened communication in a retail environment.
 
 ## References
-- Martin Mandioma – Lecturer, CPUT (Email: mandiomam@cput.ac.za)  
-- Reynard De Jager – Principal, Schoonspruit Secondary School (Phone: 0224864598)
+- Tracey-Lee Kotze (Manger): 0224512628
+- Amanda Davids (Receiving Klerk): 0221000801
 
 ---
 # Mock Interview Video
