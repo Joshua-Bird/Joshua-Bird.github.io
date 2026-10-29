@@ -132,7 +132,7 @@ This section follows the five Agile artefacts in order. Each one shows my eviden
 
 The charter is Group 26's agreement on how we work. Version 1.0 was written in May, before I joined the team. Version 2.0 was updated on 20 October 2026 to match how the team actually worked during development.
 
-[Download the Agile Team Charter v2.0 (Word document)](docs/Agile_Team_Charter_Group26_v2.0.docx)
+[Download the Agile Team Charter v2.0 (Word document)](Docs/Agile_Team_Charter_Group26_v2.0.docx)
 
 The parts of the charter that apply to me:
 
@@ -166,13 +166,13 @@ The team's user stories are written from the user's point of view and grouped by
 | Must Have | As an inspector, I want to log the outcome of each inspection and block a card when needed, so misuse is recorded and stopped. |
 | Should Have | As an inspector, I want to see my inspection history, so I can review the cards I have checked. |
 
-![Trello Must Have list with my two inspector stories](images/agile/user-stories-inspector.png)
+![Trello Must Have list with my two inspector stories](Images/Agile/user-stories-inspector.png)
 *Trello, "Product Backlog – Multirole Staff Roles" card: Must Have stories, including my verify and log-and-block stories.*
 
-![Trello Should Have list ending with my inspection history story](images/agile/user-stories-inspector_3.png)
+![Trello Should Have list ending with my inspection history story](Images/Agile/user-stories-inspector%203.png)
 *The same card: my inspection history story under Should Have.*
 
-![Trello Won't Have list showing QR-code tickets](images/agile/user-stories-inspector_4.png)
+![Trello Won't Have list showing QR-code tickets](Images/Agile/user-stories-inspector%204.png)
 *The same card: the one Won't Have item, QR-code tickets, which was replaced by Gold Card verification.*
 
 **How my stories became tasks**
@@ -183,7 +183,7 @@ The team's user stories are written from the user's point of view and grouped by
 | Log the outcome and block a card | Role card subtask "Updated verify screen and inspection outcome logging" | Outcome logging on the Verify screen, and a block confirmation dialog. Blocking sets the card to a new BLOCKED status. |
 | See my inspection history | Role card subtask "Inspection history screen" | A new Inspection History screen (`InspectionHistoryScreen.jsx`) |
 
-![My Multirole – Inspector card on Trello with three subtasks](images/agile/sprint-card.png)
+![My Multirole – Inspector card on Trello with three subtasks](Images/Agile/sprint-card.png)
 *Trello, "Multirole – Inspector" card: three subtasks, all complete.*
 
 The code for these tasks is in my commit [Updated inspector features](https://github.com/JoshBlack25/GoldenWayApp/commit/ddd518f87621d638e37b0606d9c088740740fdc1) (1 October 2026).
@@ -204,7 +204,7 @@ I also learned that stories change. QR-code tickets were dropped in favour of Go
 
 Our product backlog lives on the team's Trello board. The two cards in the User Stories list hold the whole backlog: the commuter stories (24 of 24 items complete) and the multirole staff roles stories (24 of 25 complete, where the one open item is the Won't Have QR-code tickets item). Everything else is in the Completed Backlog list, and the Product backlog and In Progress lists are empty.
 
-![The GoldenWay Trello board with User Stories, Product backlog, In Progress and Completed Backlog lists](images/agile/trello-board.png)
+![The GoldenWay Trello board with User Stories, Product backlog, In Progress and Completed Backlog lists](Images/Agile/trello-board.png)
 *The GoldenWay Trello board, 29 October 2026.*
 
 How the backlog was prioritised (MoSCoW), using my role as the example:
@@ -231,7 +231,7 @@ One thing I would do differently: my inspector card was moved to Completed and u
 
 Sprint work was tracked on Trello cards that move from the Product backlog to In Progress to Completed Backlog. Filtering the board by my name shows 14 completed cards that I was a member of, plus the two user story cards.
 
-![Trello board filtered to my cards, showing Sprint 12, 13, 17 and 19](images/agile/sprint-cards-mine.png)
+![Trello board filtered to my cards, showing Sprint 12, 13, 17 and 19](Images/Agile/sprint-cards-mine.png)
 *Trello board filtered to my name: 14 cards match in Completed Backlog, including Sprints 12, 13, 17 and 19.*
 
 | Card | What it covered | Status |
@@ -242,7 +242,7 @@ Sprint work was tracked on Trello cards that move from the Product backlog to In
 | Sprint 17: Testing Pass 1 & Bug Fixes | Four subtasks | Complete (4/4) |
 | Sprint 19: Final QA | See the card on the Trello board for its subtasks | Complete |
 
-![Sprint 13 card with its subtasks and refinement notes](images/agile/sprint-13-card.png)
+![Sprint 13 card with its subtasks and refinement notes](Images/Agile/sprint-13-card.png)
 *Sprint 13 card. The team lead's notes on 20 October record that the "scan to verify" view became the inspector's card verification screen once QR tickets were replaced by Gold Card verification.*
 
 ### Reflection
